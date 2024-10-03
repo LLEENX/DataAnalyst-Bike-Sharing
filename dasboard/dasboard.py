@@ -10,8 +10,8 @@ st.set_page_config(page_title="Dashboard Penggunaan Sepeda", layout="wide")
 # Load dataset
 @st.cache_data
 def load_data():
-    df_day = pd.read_csv("cleaned_days_df.csv")  # Dataset untuk data harian
-    df_hour = pd.read_csv("cleaned_hours_df.csv")  # Dataset untuk data jam
+    df_day = pd.read_csv("/dasboard/cleaned_days_df.csv")  # Dataset untuk data harian
+    df_hour = pd.read_csv("/dasboard/cleaned_hours_df.csv")  # Dataset untuk data jam
     df_day['date'] = pd.to_datetime(df_day['date'])
     df_hour['date'] = pd.to_datetime(df_hour['date'])
     
