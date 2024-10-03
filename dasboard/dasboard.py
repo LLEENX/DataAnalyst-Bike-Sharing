@@ -56,7 +56,7 @@ st.sidebar.markdown(
     unsafe_allow_html=True
 )
 
-st.sidebar.image("../image/photo.jpg", width=75, caption="By Rifal Ariya Yusuftrian", use_column_width=True) 
+st.sidebar.image("https://github.com/LLEENX/DataAnalyst-Bike-Sharing/blob/main/image/photo.jpg", width=75, caption="By Rifal Ariya Yusuftrian", use_column_width=True) 
 
 st.title("Dashboard Penggunaan Sepeda")
 st.markdown("### Statistik Penggunaan Sepeda")
