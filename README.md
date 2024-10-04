@@ -1,5 +1,5 @@
 # Bike-Sharing-Dataset
-Ini adalah project pertama ku dalam menganalisis data yaitu Final Project dari Dicoding "Belajar Analisis Data Dengan Python" . File notebook berisi usaha saya dalam membuat applikasi web ini yaitu mulai dari Wraggling Data  seperti mengumpulkan data dari : https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view lalu Cleaning data lalu lanjut ke Exploring data sampai ke Visualization & Explanatory Analysis
+Project pertama saya dalam menganalisis data  dari Dicoding "Belajar Analisis Data Dengan Python" . File notebook berisi hasil cleaing dan visual yang saya lakukan berdasarkan sumber data dari :  https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view
 
 ## Analysis Data dengan Jupyter Notebook
 Untuk dapat running file Notebook dapat mengikuti langkah-langkah berikut ini:
@@ -53,7 +53,7 @@ Setelah memilih data akan terganti/terbarui sesuai dengan batas awal dan akhir y
 
 #### Install Dependencies
 
-#### Aktifkan virtual environtment : (Pada project ini menggunakan Anaconda)
+#### Aktifkan virtual environtment :
 ```bash
 pip install streamlit babel
 ```
