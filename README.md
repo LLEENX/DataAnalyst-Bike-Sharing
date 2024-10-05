@@ -70,4 +70,4 @@ Jangan lupa untuk mengganti path data dan juga image
 streamlit run [dasboard.py]
 ```
 
-Thanks for visiting my project! ✨
+Thanks for visiting my project! ✨🔥
